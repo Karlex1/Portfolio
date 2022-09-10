@@ -2,6 +2,6 @@ import React from 'react';
 
 export const Image = () => {
   return (
-    <img src="https://lh3.googleusercontent.com/qoV2m2g7ifHuDhIewMaOmeYdeRbkpg1EZXYce96xzl2iC3RJI4aZFJ8fhSk2qJtfBKfeiOaCovCnBIbOjZSHQRR58nDbD7xkovStrQ-SSNJvUKkP8kt_GBSeab4-rJUA_vYNarbVQsVfV6pJ3evrqJnxABkjI-zgSrd28B6XxwUI8sPTES-jhiYtvJ15hEf__fESKMdMfmxUm4E1nXR3LQECbg52lKi47RCOPmNyLjWw3xMPbeIAb3uM0uscbz64yPUaAkWZQIIvA_D2Nt_21Xv1VFa4pEE6qtuua4bqj-LrYuvjEg2aAirvoavFz3sUeqWvm7La2w0vw3aD8ZDCJWKGShyAKg6lX1BSGXmNsl1J_DHHaqIeK6q04gJ6B41Mn6NMj_xJ5LFHynZqqlYISyaa932OtlSk0B9P6jzDzr6y1XIPNAahnao1N4_uQy2zrVU1C2FRpyjfSc9FZYMTV4-zutKpCaeBT019vHhTH-TKDGY8bMxLFF43Nchw_9OZe1vkEKxCKzxWc_11Hle_miIaW1wVkciQlUz3NZlN8O59LTdtHDViabN3LuXZRkSBDdjn5crIoll0nmrL0O-FZ93BWfNKAjftKBlw6b5DemkPormWkuCh4HEHtp5rv571hqQHWYOfFHwoPiXgLQLwt7gU3p-NgrpK2KkdJv6aOd5xVn9VvBHrvoVSI__XIz3Q5ZS5PzJx-LXDJ7ovX4lAXz-P0q9QZ-m0j8AUS2QHGk72iQzB52sS-ueN81vim-7z_Z7use5gQ9fc1YIMVk32x5jbaht4-0kMF-KoI6PFk9V_MWE1d0gvYWpzwZATpKluCniD_Q=w654-h625-no?authuser=0" alt="Profile_img" className='img img-thumbnail rounded float-start' />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6PvIxkLnzwnGDt1ScXn4A0wnNwSHn4lAmTQ&usqp=CAU" alt="Profile_img" className='img img-thumbnail rounded float-start' />
   )
 }

@@ -17,6 +17,7 @@ function Bargarph() {
         <div className="bio animate__animated animate__shakeX">
           <h2 className="bio-title">About Me</h2>
           <p className="bio-text">
+            Hey,<br />
             Myself Sanchit. I'm  a <b> Web Developer </b> by profession and freelance web developer also.
           </p>
         </div>
