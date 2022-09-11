@@ -30,7 +30,7 @@ export const Footer = () => {
             <p className="copy ">&copy; Copyright 2022</p>
             <p className="copy">
                 Built with &#x2661; by
-                <a href="https://twitter.com/koladechris" target="_blank" rel="noreferrer"
+               <a href="https://www.linkedin.com/in/sanchit-312928214/" target="_blank" rel="noreferrer"
                 > Sanchit (@sanchit_karlex)</a >
             </p></div>
         <div className="socials">
