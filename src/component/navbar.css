@@ -21,7 +21,7 @@
     padding-left: 1rem;
     padding-right: 1rem;
     background-color: rgb(104, 45, 160);
-    color: rgb(238, 214, 214);
+    color: rgb(0,0,0);
    }
    .rt{flex-direction: row;
 display: flex;
